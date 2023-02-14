@@ -22,3 +22,5 @@ spring:
         url: jdbc:hsqldb:mem:dddsample
         username: sa
         password: ""
+    main:
+        allow-bean-definition-overriding: true
